@@ -6,7 +6,7 @@
     }).addTo(map);
 
     const urls = {
-        geojson: 'https://raw.githubusercontent.com/XuZiHan-010/finland.github.io/main/data/geojson_file.geojson',
+        geojson: 'https://raw.githubusercontent.com/LaneyGUO/finland_mobility.github.io/main/data/geojson_file.geojson',
         deviation: 'https://raw.githubusercontent.com/XuZiHan-010/finland.github.io/refs/heads/main/data/data_cleaned.json', // Replace with your deviation data path
     };
 
